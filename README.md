@@ -24,8 +24,12 @@ Licence: GNU General Public License, version 3 or later (file `LICENSE`).
 
 ## Use of generative AI
 
-The first version of this code was written entirely by Jeanne Tous and Julien
-Chiquet, and built its simulations on VirtualCom (Münkemüller & Gallien 2015).
+In the first version of this code, the simulation of the communities, from the
+species pool to the lottery, was taken essentially as is from VirtualCom
+(Münkemüller & Gallien 2015). The rest of the code, which draws the interaction
+networks, fits the models and scores them, was written by Jeanne Tous and Julien
+Chiquet.
+
 For the second version, prepared for the resubmission, Claude Code (Anthropic)
 was used to:
 
