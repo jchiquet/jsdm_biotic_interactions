@@ -1,0 +1,9 @@
+"mech","metric","mean","ci","n"
+"gompertz","AUC_competition","+0.040","0.006",1920
+"ricker","AUC_competition","-0.015","0.007",1911
+"gompertz","AUC_facilitation","+0.039","0.009",1920
+"ricker","AUC_facilitation","+0.013","0.009",1887
+"gompertz","precision_k_competition","-0.005","0.009",1920
+"ricker","precision_k_competition","-0.050","0.009",1915
+"gompertz","precision_k_facilitation","+0.108","0.012",1908
+"ricker","precision_k_facilitation","+0.034","0.013",1845
